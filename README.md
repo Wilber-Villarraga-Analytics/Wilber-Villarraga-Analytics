@@ -1,4 +1,4 @@
-# ¡Hola! Soy Wilber Villarraga 👋
+# ¡Hola! Soy Wilber Villarraga
 
 > *"Estudiante amante de los datos y su transformación junto a ellos mediante herramientas estadísticas."*
 
